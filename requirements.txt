@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+requests
+openai
+geopandas
+rasterio
+numpy
+python-dotenv
