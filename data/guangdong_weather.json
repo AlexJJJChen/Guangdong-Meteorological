@@ -1,0 +1,1346 @@
+{
+  "潮州市": {
+    "adcode": 445100,
+    "lon": 116.77259018704551,
+    "lat": 23.79586191616381,
+    "weather": {
+      "now": {
+        "temperature": 23.63,
+        "humidity": 83,
+        "wind_speed": 0.87,
+        "wind_direction": 39,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 23.92,
+          "humidity": 82,
+          "wind_speed": 1.42,
+          "wind_direction": 63,
+          "precipitation": 1.65
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 22.38,
+          "humidity": 88,
+          "wind_speed": 0.13,
+          "wind_direction": 279,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 20.35,
+          "humidity": 94,
+          "wind_speed": 0.56,
+          "wind_direction": 180,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 23.83,
+          "humidity": 80,
+          "wind_speed": 1.56,
+          "wind_direction": 219,
+          "precipitation": 2.15
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 27.04,
+          "humidity": 61,
+          "wind_speed": 1.1,
+          "wind_direction": 268,
+          "precipitation": 0.28
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 29.3,
+          "humidity": 51,
+          "wind_speed": 2.59,
+          "wind_direction": 206,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "东莞市": {
+    "adcode": 441900,
+    "lon": 113.87572311129101,
+    "lat": 22.935313757608554,
+    "weather": {
+      "now": {
+        "temperature": 30.02,
+        "humidity": 79,
+        "wind_speed": 1.35,
+        "wind_direction": 244,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 29.86,
+          "humidity": 77,
+          "wind_speed": 1.33,
+          "wind_direction": 241,
+          "precipitation": 1.42
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 28.06,
+          "humidity": 84,
+          "wind_speed": 0.26,
+          "wind_direction": 126,
+          "precipitation": 0.86
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 26.53,
+          "humidity": 90,
+          "wind_speed": 1.41,
+          "wind_direction": 155,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 29.66,
+          "humidity": 69,
+          "wind_speed": 4.58,
+          "wind_direction": 203,
+          "precipitation": 1.58
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 28.87,
+          "humidity": 69,
+          "wind_speed": 2.74,
+          "wind_direction": 190,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 29.9,
+          "humidity": 63,
+          "wind_speed": 4.15,
+          "wind_direction": 213,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "佛山市": {
+    "adcode": 440600,
+    "lon": 112.94444453841504,
+    "lat": 23.0064077022805,
+    "weather": {
+      "now": {
+        "temperature": 28.91,
+        "humidity": 76,
+        "wind_speed": 2.63,
+        "wind_direction": 247,
+        "precipitation": 1.06
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 28.47,
+          "humidity": 77,
+          "wind_speed": 0.78,
+          "wind_direction": 154,
+          "precipitation": 3.07
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 26.96,
+          "humidity": 83,
+          "wind_speed": 0.59,
+          "wind_direction": 140,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.65,
+          "humidity": 93,
+          "wind_speed": 0.51,
+          "wind_direction": 195,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 31.5,
+          "humidity": 63,
+          "wind_speed": 3.84,
+          "wind_direction": 177,
+          "precipitation": 3.03
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 31.6,
+          "humidity": 60,
+          "wind_speed": 5.34,
+          "wind_direction": 198,
+          "precipitation": 0.8
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 31.76,
+          "humidity": 61,
+          "wind_speed": 4.45,
+          "wind_direction": 195,
+          "precipitation": 1.08
+        }
+      }
+    }
+  },
+  "广州市": {
+    "adcode": 440100,
+    "lon": 113.5357453378503,
+    "lat": 23.348399420962114,
+    "weather": {
+      "now": {
+        "temperature": 31.81,
+        "humidity": 76,
+        "wind_speed": 0.78,
+        "wind_direction": 244,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 30.14,
+          "humidity": 75,
+          "wind_speed": 1.13,
+          "wind_direction": 319,
+          "precipitation": 0.95
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 27.42,
+          "humidity": 86,
+          "wind_speed": 0.76,
+          "wind_direction": 57,
+          "precipitation": 0.67
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.19,
+          "humidity": 94,
+          "wind_speed": 1.04,
+          "wind_direction": 94,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 27.03,
+          "humidity": 86,
+          "wind_speed": 2.15,
+          "wind_direction": 186,
+          "precipitation": 3.8
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 30.27,
+          "humidity": 68,
+          "wind_speed": 4.37,
+          "wind_direction": 166,
+          "precipitation": 0.17
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 30.13,
+          "humidity": 60,
+          "wind_speed": 3.81,
+          "wind_direction": 199,
+          "precipitation": 0.2
+        }
+      }
+    }
+  },
+  "河源市": {
+    "adcode": 441600,
+    "lon": 114.9576600093559,
+    "lat": 24.044486977317757,
+    "weather": {
+      "now": {
+        "temperature": 25.66,
+        "humidity": 71,
+        "wind_speed": 3.06,
+        "wind_direction": 205,
+        "precipitation": 1.06
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 26.27,
+          "humidity": 69,
+          "wind_speed": 3.13,
+          "wind_direction": 229,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 23.24,
+          "humidity": 80,
+          "wind_speed": 0.97,
+          "wind_direction": 267,
+          "precipitation": 0.17
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 20.56,
+          "humidity": 95,
+          "wind_speed": 1.2,
+          "wind_direction": 204,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 22.95,
+          "humidity": 90,
+          "wind_speed": 1.34,
+          "wind_direction": 229,
+          "precipitation": 1.47
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 24.47,
+          "humidity": 79,
+          "wind_speed": 0.73,
+          "wind_direction": 223,
+          "precipitation": 0.32
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 29.98,
+          "humidity": 52,
+          "wind_speed": 3.32,
+          "wind_direction": 221,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "惠州市": {
+    "adcode": 441300,
+    "lon": 114.49858689197521,
+    "lat": 23.24265142768094,
+    "weather": {
+      "now": {
+        "temperature": 29.16,
+        "humidity": 82,
+        "wind_speed": 1.03,
+        "wind_direction": 274,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 28.83,
+          "humidity": 82,
+          "wind_speed": 0.95,
+          "wind_direction": 279,
+          "precipitation": 0.58
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 27.18,
+          "humidity": 87,
+          "wind_speed": 0.18,
+          "wind_direction": 27,
+          "precipitation": 0.25
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.6,
+          "humidity": 94,
+          "wind_speed": 0.79,
+          "wind_direction": 195,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 27.3,
+          "humidity": 82,
+          "wind_speed": 1.45,
+          "wind_direction": 232,
+          "precipitation": 2.35
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 30,
+          "humidity": 65,
+          "wind_speed": 2.67,
+          "wind_direction": 251,
+          "precipitation": 0.39
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 34.72,
+          "humidity": 43,
+          "wind_speed": 4.23,
+          "wind_direction": 245,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "江门市": {
+    "adcode": 440700,
+    "lon": 112.6698615031149,
+    "lat": 22.28107609936574,
+    "weather": {
+      "now": {
+        "temperature": 28.23,
+        "humidity": 86,
+        "wind_speed": 1.92,
+        "wind_direction": 224,
+        "precipitation": 3.35
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 28.23,
+          "humidity": 85,
+          "wind_speed": 1.39,
+          "wind_direction": 193,
+          "precipitation": 0.75
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 26.91,
+          "humidity": 87,
+          "wind_speed": 1.29,
+          "wind_direction": 118,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.5,
+          "humidity": 91,
+          "wind_speed": 1.26,
+          "wind_direction": 166,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 28.78,
+          "humidity": 75,
+          "wind_speed": 4.47,
+          "wind_direction": 176,
+          "precipitation": 0.0
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 27.69,
+          "humidity": 84,
+          "wind_speed": 2.23,
+          "wind_direction": 215,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 27.64,
+          "humidity": 79,
+          "wind_speed": 3.14,
+          "wind_direction": 197,
+          "precipitation": 0.14
+        }
+      }
+    }
+  },
+  "揭阳市": {
+    "adcode": 445200,
+    "lon": 116.11690376760232,
+    "lat": 23.338323784516977,
+    "weather": {
+      "now": {
+        "temperature": 29.75,
+        "humidity": 71,
+        "wind_speed": 2.4,
+        "wind_direction": 249,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 30.73,
+          "humidity": 70,
+          "wind_speed": 1.56,
+          "wind_direction": 202,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 28.25,
+          "humidity": 78,
+          "wind_speed": 1.05,
+          "wind_direction": 253,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.89,
+          "humidity": 86,
+          "wind_speed": 1.15,
+          "wind_direction": 202,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 31.9,
+          "humidity": 61,
+          "wind_speed": 3.38,
+          "wind_direction": 224,
+          "precipitation": 0.49
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 32.95,
+          "humidity": 55,
+          "wind_speed": 1.64,
+          "wind_direction": 215,
+          "precipitation": 0.12
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 35.24,
+          "humidity": 44,
+          "wind_speed": 3.34,
+          "wind_direction": 228,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "茂名市": {
+    "adcode": 440900,
+    "lon": 110.95110048088421,
+    "lat": 22.015129769981915,
+    "weather": {
+      "now": {
+        "temperature": 29.56,
+        "humidity": 70,
+        "wind_speed": 4.07,
+        "wind_direction": 147,
+        "precipitation": 1.15
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 29.87,
+          "humidity": 69,
+          "wind_speed": 4.42,
+          "wind_direction": 156,
+          "precipitation": 0.68
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 27.11,
+          "humidity": 83,
+          "wind_speed": 2.66,
+          "wind_direction": 137,
+          "precipitation": 0.81
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 24.46,
+          "humidity": 91,
+          "wind_speed": 2.04,
+          "wind_direction": 123,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 30.4,
+          "humidity": 68,
+          "wind_speed": 5.34,
+          "wind_direction": 155,
+          "precipitation": 1.08
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 29.94,
+          "humidity": 68,
+          "wind_speed": 4.38,
+          "wind_direction": 148,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 30.42,
+          "humidity": 64,
+          "wind_speed": 4.99,
+          "wind_direction": 158,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "梅州市": {
+    "adcode": 441400,
+    "lon": 116.07920728844928,
+    "lat": 24.20278153618183,
+    "weather": {
+      "now": {
+        "temperature": 27.26,
+        "humidity": 78,
+        "wind_speed": 1.34,
+        "wind_direction": 212,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 26.59,
+          "humidity": 82,
+          "wind_speed": 1.93,
+          "wind_direction": 210,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 24.96,
+          "humidity": 85,
+          "wind_speed": 1.28,
+          "wind_direction": 234,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 23.68,
+          "humidity": 88,
+          "wind_speed": 0.62,
+          "wind_direction": 173,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 27.19,
+          "humidity": 84,
+          "wind_speed": 1.8,
+          "wind_direction": 274,
+          "precipitation": 2.84
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 26.33,
+          "humidity": 83,
+          "wind_speed": 0.59,
+          "wind_direction": 304,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 32.98,
+          "humidity": 50,
+          "wind_speed": 3.44,
+          "wind_direction": 234,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "清远市": {
+    "adcode": 441800,
+    "lon": 112.87474255609942,
+    "lat": 24.314387348616844,
+    "weather": {
+      "now": {
+        "temperature": 23.32,
+        "humidity": 93,
+        "wind_speed": 1.55,
+        "wind_direction": 165,
+        "precipitation": 0.32
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 24.25,
+          "humidity": 88,
+          "wind_speed": 1.92,
+          "wind_direction": 130,
+          "precipitation": 2.96
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 22.9,
+          "humidity": 94,
+          "wind_speed": 1.55,
+          "wind_direction": 119,
+          "precipitation": 0.9
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 21.33,
+          "humidity": 98,
+          "wind_speed": 1.16,
+          "wind_direction": 125,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 22.77,
+          "humidity": 96,
+          "wind_speed": 1.44,
+          "wind_direction": 131,
+          "precipitation": 6.28
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 25.25,
+          "humidity": 88,
+          "wind_speed": 2.46,
+          "wind_direction": 154,
+          "precipitation": 3.42
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 25.53,
+          "humidity": 83,
+          "wind_speed": 1.7,
+          "wind_direction": 162,
+          "precipitation": 2.3
+        }
+      }
+    }
+  },
+  "汕头市": {
+    "adcode": 440500,
+    "lon": 116.58310315059782,
+    "lat": 23.333378608861363,
+    "weather": {
+      "now": {
+        "temperature": 25.97,
+        "humidity": 74,
+        "wind_speed": 6.45,
+        "wind_direction": 204,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 26.48,
+          "humidity": 80,
+          "wind_speed": 4.77,
+          "wind_direction": 222,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 26.36,
+          "humidity": 80,
+          "wind_speed": 2.4,
+          "wind_direction": 198,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.73,
+          "humidity": 85,
+          "wind_speed": 2.43,
+          "wind_direction": 215,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 29.33,
+          "humidity": 69,
+          "wind_speed": 4.55,
+          "wind_direction": 211,
+          "precipitation": 0.71
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 31.67,
+          "humidity": 61,
+          "wind_speed": 3.3,
+          "wind_direction": 179,
+          "precipitation": 0.32
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 32.77,
+          "humidity": 54,
+          "wind_speed": 3.9,
+          "wind_direction": 200,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "汕尾市": {
+    "adcode": 441500,
+    "lon": 115.53273734593706,
+    "lat": 23.01374520357742,
+    "weather": {
+      "now": {
+        "temperature": 28,
+        "humidity": 76,
+        "wind_speed": 3.34,
+        "wind_direction": 233,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 28.67,
+          "humidity": 71,
+          "wind_speed": 1.93,
+          "wind_direction": 259,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 27.41,
+          "humidity": 75,
+          "wind_speed": 1.34,
+          "wind_direction": 222,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.83,
+          "humidity": 84,
+          "wind_speed": 1.06,
+          "wind_direction": 208,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 28.02,
+          "humidity": 71,
+          "wind_speed": 2.79,
+          "wind_direction": 230,
+          "precipitation": 0.0
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 33.22,
+          "humidity": 51,
+          "wind_speed": 5.59,
+          "wind_direction": 208,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 33.63,
+          "humidity": 49,
+          "wind_speed": 5.91,
+          "wind_direction": 215,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "韶关市": {
+    "adcode": 440200,
+    "lon": 113.77457006372677,
+    "lat": 24.820409034770154,
+    "weather": {
+      "now": {
+        "temperature": 28.58,
+        "humidity": 76,
+        "wind_speed": 3.76,
+        "wind_direction": 201,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 26.96,
+          "humidity": 85,
+          "wind_speed": 2.2,
+          "wind_direction": 193,
+          "precipitation": 3.82
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 24.69,
+          "humidity": 91,
+          "wind_speed": 1.37,
+          "wind_direction": 156,
+          "precipitation": 0.51
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 21.65,
+          "humidity": 97,
+          "wind_speed": 1.08,
+          "wind_direction": 150,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 23.98,
+          "humidity": 97,
+          "wind_speed": 0.87,
+          "wind_direction": 195,
+          "precipitation": 3.77
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 28.58,
+          "humidity": 69,
+          "wind_speed": 2.76,
+          "wind_direction": 183,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 28.67,
+          "humidity": 79,
+          "wind_speed": 2.81,
+          "wind_direction": 202,
+          "precipitation": 2.27
+        }
+      }
+    }
+  },
+  "深圳市": {
+    "adcode": 440300,
+    "lon": 114.12666014732112,
+    "lat": 22.654398914211686,
+    "weather": {
+      "now": {
+        "temperature": 31.2,
+        "humidity": 69,
+        "wind_speed": 4.12,
+        "wind_direction": 231,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 30.29,
+          "humidity": 69,
+          "wind_speed": 3.32,
+          "wind_direction": 218,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 28.24,
+          "humidity": 72,
+          "wind_speed": 1.7,
+          "wind_direction": 198,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 26.33,
+          "humidity": 82,
+          "wind_speed": 0.9,
+          "wind_direction": 160,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 31.02,
+          "humidity": 58,
+          "wind_speed": 4.26,
+          "wind_direction": 209,
+          "precipitation": 0.38
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 29.6,
+          "humidity": 63,
+          "wind_speed": 2.7,
+          "wind_direction": 194,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 29.75,
+          "humidity": 62,
+          "wind_speed": 3.81,
+          "wind_direction": 218,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "阳江市": {
+    "adcode": 441700,
+    "lon": 111.77180246711487,
+    "lat": 22.039376451843516,
+    "weather": {
+      "now": {
+        "temperature": 27.81,
+        "humidity": 83,
+        "wind_speed": 1.76,
+        "wind_direction": 167,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 27.61,
+          "humidity": 83,
+          "wind_speed": 3.08,
+          "wind_direction": 157,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 25.99,
+          "humidity": 91,
+          "wind_speed": 2.23,
+          "wind_direction": 142,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 25.03,
+          "humidity": 94,
+          "wind_speed": 0.38,
+          "wind_direction": 112,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 30.55,
+          "humidity": 69,
+          "wind_speed": 4.31,
+          "wind_direction": 176,
+          "precipitation": 0.49
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 27.47,
+          "humidity": 84,
+          "wind_speed": 0.92,
+          "wind_direction": 215,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 26.94,
+          "humidity": 82,
+          "wind_speed": 2.48,
+          "wind_direction": 150,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "云浮市": {
+    "adcode": 445300,
+    "lon": 111.79385495000193,
+    "lat": 22.815912586333226,
+    "weather": {
+      "now": {
+        "temperature": 25.77,
+        "humidity": 92,
+        "wind_speed": 0.9,
+        "wind_direction": 91,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 25.69,
+          "humidity": 93,
+          "wind_speed": 1.11,
+          "wind_direction": 91,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 24.96,
+          "humidity": 94,
+          "wind_speed": 1.41,
+          "wind_direction": 96,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 24.21,
+          "humidity": 95,
+          "wind_speed": 1.04,
+          "wind_direction": 110,
+          "precipitation": 0.36
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 31.42,
+          "humidity": 66,
+          "wind_speed": 4.7,
+          "wind_direction": 168,
+          "precipitation": 2.3
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 27.32,
+          "humidity": 84,
+          "wind_speed": 3.83,
+          "wind_direction": 148,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 30.65,
+          "humidity": 67,
+          "wind_speed": 5.89,
+          "wind_direction": 165,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "湛江市": {
+    "adcode": 440800,
+    "lon": 110.16406267520114,
+    "lat": 21.096051775619234,
+    "weather": {
+      "now": {
+        "temperature": 32.95,
+        "humidity": 57,
+        "wind_speed": 2.36,
+        "wind_direction": 244,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 32.43,
+          "humidity": 59,
+          "wind_speed": 1.74,
+          "wind_direction": 252,
+          "precipitation": 0.83
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 29.22,
+          "humidity": 76,
+          "wind_speed": 3.22,
+          "wind_direction": 120,
+          "precipitation": 1.32
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 26.19,
+          "humidity": 90,
+          "wind_speed": 2.84,
+          "wind_direction": 143,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 32.42,
+          "humidity": 60,
+          "wind_speed": 1.45,
+          "wind_direction": 124,
+          "precipitation": 2.69
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 31.56,
+          "humidity": 65,
+          "wind_speed": 2.14,
+          "wind_direction": 139,
+          "precipitation": 1.32
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 30.67,
+          "humidity": 71,
+          "wind_speed": 4.5,
+          "wind_direction": 142,
+          "precipitation": 2.19
+        }
+      }
+    }
+  },
+  "肇庆市": {
+    "adcode": 441200,
+    "lon": 112.20533551535543,
+    "lat": 23.537572014130433,
+    "weather": {
+      "now": {
+        "temperature": 24.1,
+        "humidity": 97,
+        "wind_speed": 0.98,
+        "wind_direction": 142,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 23.97,
+          "humidity": 97,
+          "wind_speed": 0.9,
+          "wind_direction": 130,
+          "precipitation": 3.53
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 23.28,
+          "humidity": 98,
+          "wind_speed": 1.03,
+          "wind_direction": 136,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 22.6,
+          "humidity": 99,
+          "wind_speed": 0.74,
+          "wind_direction": 149,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 25.16,
+          "humidity": 95,
+          "wind_speed": 0.66,
+          "wind_direction": 83,
+          "precipitation": 2.35
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 29.81,
+          "humidity": 71,
+          "wind_speed": 2.53,
+          "wind_direction": 189,
+          "precipitation": 3.28
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 28.02,
+          "humidity": 84,
+          "wind_speed": 1.99,
+          "wind_direction": 186,
+          "precipitation": 5.55
+        }
+      }
+    }
+  },
+  "中山市": {
+    "adcode": 442000,
+    "lon": 113.38437084281107,
+    "lat": 22.520466585746238,
+    "weather": {
+      "now": {
+        "temperature": 30.41,
+        "humidity": 74,
+        "wind_speed": 1.8,
+        "wind_direction": 216,
+        "precipitation": 1
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 30.12,
+          "humidity": 77,
+          "wind_speed": 1.15,
+          "wind_direction": 290,
+          "precipitation": 0.91
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 28.26,
+          "humidity": 82,
+          "wind_speed": 0.37,
+          "wind_direction": 64,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 26.53,
+          "humidity": 88,
+          "wind_speed": 1.26,
+          "wind_direction": 169,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 29.21,
+          "humidity": 70,
+          "wind_speed": 3.22,
+          "wind_direction": 190,
+          "precipitation": 0.43
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 33.93,
+          "humidity": 48,
+          "wind_speed": 4.39,
+          "wind_direction": 188,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 31.77,
+          "humidity": 55,
+          "wind_speed": 3.19,
+          "wind_direction": 197,
+          "precipitation": 0.0
+        }
+      }
+    }
+  },
+  "珠海市": {
+    "adcode": 440400,
+    "lon": 113.35734747668023,
+    "lat": 22.169897766025084,
+    "weather": {
+      "now": {
+        "temperature": 30.01,
+        "humidity": 74,
+        "wind_speed": 4.08,
+        "wind_direction": 203,
+        "precipitation": 0.0
+      },
+      "forecast": {
+        "3h": {
+          "datetime": "2025-05-19 17:00:00",
+          "temperature": 29.58,
+          "humidity": 75,
+          "wind_speed": 2.85,
+          "wind_direction": 214,
+          "precipitation": 0.0
+        },
+        "6h": {
+          "datetime": "2025-05-19 20:00:00",
+          "temperature": 28.01,
+          "humidity": 80,
+          "wind_speed": 1.85,
+          "wind_direction": 198,
+          "precipitation": 0.0
+        },
+        "12h": {
+          "datetime": "2025-05-20 02:00:00",
+          "temperature": 26.64,
+          "humidity": 87,
+          "wind_speed": 2,
+          "wind_direction": 190,
+          "precipitation": 0.0
+        },
+        "24h": {
+          "datetime": "2025-05-20 14:00:00",
+          "temperature": 28.42,
+          "humidity": 79,
+          "wind_speed": 4.22,
+          "wind_direction": 199,
+          "precipitation": 0.29
+        },
+        "48h": {
+          "datetime": "2025-05-21 14:00:00",
+          "temperature": 30.12,
+          "humidity": 70,
+          "wind_speed": 4.74,
+          "wind_direction": 182,
+          "precipitation": 0.0
+        },
+        "72h": {
+          "datetime": "2025-05-22 14:00:00",
+          "temperature": 28.09,
+          "humidity": 77,
+          "wind_speed": 3.24,
+          "wind_direction": 203,
+          "precipitation": 0.2
+        }
+      }
+    }
+  }
+}
