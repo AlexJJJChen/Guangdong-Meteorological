@@ -105,7 +105,6 @@ This project is organized into several key Python scripts and modules, each resp
 - **Output**:
   - Writes all retrieved weather data into `guangdong_weather.json`, organizing the results per city and per forecast period for seamless access by risk modeling modules.
 
----
 
 ### 3. risk_model.py
 
@@ -123,7 +122,6 @@ This project is organized into several key Python scripts and modules, each resp
 - **Output**:
   - Returns a dictionary mapping each city name to a detailed risk assessment object, including all risk scores, classified labels (risk levels), and the specific weather data used in the calculation. This output is passed to both the dashboard and chatbot modules for visualization and user queries.
 
----
 
 ### 4. chatbot_service.py
 
@@ -138,7 +136,6 @@ This project is organized into several key Python scripts and modules, each resp
 - **Output**:
   - Returns formatted chatbot responses ready for display in the app’s interactive chatbox, maintaining accessible, context-driven dialogue for user inquiries.
 
----
 
 ### 5. dashboard_app.py
 
@@ -156,8 +153,6 @@ This project is organized into several key Python scripts and modules, each resp
 - **Output**:
   - Provides an interactive browser-based dashboard for risk map viewing, live AI chat, and seamless user operations.
 
----
-
 ### 6. ui_theme.py
 
 - **Input**:
@@ -170,7 +165,6 @@ This project is organized into several key Python scripts and modules, each resp
 - **Output**:
   - Theme object(s) imported by `dashboard_app.py` to apply a unified look and feel across the entire application UI.
 
----
 
 ### Workflow Overview
 
